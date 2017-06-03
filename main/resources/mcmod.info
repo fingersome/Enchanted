@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enchantedmod",
+  "name": "Enchanted!",
+  "description": "A mod that expands the enchantment mechanics of Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fingersome"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

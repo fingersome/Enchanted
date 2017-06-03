@@ -1,0 +1,10 @@
+# Creative tabs
+itemGroup.enchantedmod=Enchanted
+#
+# Baubles
+#
+# Items
+item.item_tome.name=Enchanting Tome
+# Blocks
+tile.block_disenchanter.name=Dispelling Table
+tile.block_disenchanter.name=Inscription Table
